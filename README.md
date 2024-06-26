@@ -14,4 +14,4 @@ Key Features:
 
 Objective:
 
-  The objective of Time Tracker Pro is to provide users with a reliable tool for measuring and recording time intervals accurately. Whether used for timing workouts, tracking study sessions, or managing tasks, the application aims to enhance productivity and organization.
+  The objective of Time Tracker Stopwatch is to provide users with a reliable tool for measuring and recording time intervals accurately. Whether used for timing workouts, tracking study sessions, or managing tasks, the application aims to enhance productivity and organization.
